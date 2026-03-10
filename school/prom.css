@@ -1,5 +1,17 @@
-h1+p {
+Body {
+    background-image: url("");
+    
+    
+
+}
+p {
+    background-color: ;
     color: blue;
+    opacity: 0.;
+}
+
+h1+p {
+    color: yellowgreen;
 }
 #maCouleur {
     color: red;
@@ -9,5 +21,6 @@ h1+p {
      /* Titres de 80 pixels */
  }
  .taille {
-     font-size: small;
+     font-size: large;
  }
+ 
